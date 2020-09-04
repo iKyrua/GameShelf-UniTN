@@ -1,4 +1,4 @@
-# Project Name: GameShelf, 
+# Project Name: GameShelf
 University Project
 
 ## Project setup
